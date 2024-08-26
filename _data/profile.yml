@@ -1,6 +1,6 @@
-primary_name: "Your Name"
+primary_name: "Daiyun Dong"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Daiyun Dong"
 
 positions:
 - logo: /assets/images/badges/PKU_red.png  # Logo is optional
@@ -8,7 +8,7 @@ positions:
 - name: Position 2 without logo
 
 
-email: "your@email.com"
+email: "ddong11@jh.edu"
 # cv_link: link-to-your-cv-file
 gscholar: your_google_scholar_id
 github: your_github_id
