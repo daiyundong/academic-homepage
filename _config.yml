@@ -37,3 +37,4 @@ timezone: America/New_York
 collections:
   - publications
   - news
+  - research
