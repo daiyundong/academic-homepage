@@ -5,13 +5,10 @@ selected:       true
 pub:            "Nature Communications"
 pub_date:       "2023"
 abstract: >-
-  Photo by Thomas Renaud on Unsplash. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  The factors causing schizophrenia are multifaceted, and studies have shown that the disease has heritability. Dopamine hypothesis is one of the pathogenesis hypotheses of schizophrenia. This study analysed the relationship between genes, dopamine and schizophrenia, and focuses on four important genes associated with schizophrenia. Through analysis, we suggests possible ways in which susceptibility genes may cause disease. This study will lay a foundation for the further study of dopamine in schizophrenia and provide a drug target for the treatment of schizophrenia.
 cover:          /assets/images/covers/cover1.jpg
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+- Daiyun Dong*
 links:
-  Paper: https://www.cell.com
+  Paper: https://doi.org/10.1063/5.0112965
 ---
