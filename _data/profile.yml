@@ -56,9 +56,31 @@ education:
 
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
+- name: Outstanding Graduate
+  date: 2023
+- name: Excellent Scholarship
+  date: 2023
+- name: Outstanding Student Leader Award
+  date: 2023
+- name: Excellent Scholarship
+  date: 2022
+- name: Outstanding Student Leader Award
+  date: 2022
+- name: Excellent Scholarship
   date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
+- name: Outstanding Student Leader Award
   date: 2021
+- name: Outstanding Volunteer Leadership Award
+  date: 2021
+- name: Public Service Awards
+  date: 2021
+- name: Excellent Scholarship
+  date: 2020
+- name: Outstanding Student Award
+  date: 2020
+- name: Outstanding Volunteer Award
+  date: 2020
+- name: Outstanding Volunteer Award
+  date: 2019
+- name: The Highest Level of Violin Certified by China Music Association
+  date: 2018
