@@ -3,8 +3,8 @@ pages:
   url: /
 - name: Publications
   url: /publications
-- name: Research Experience
-  url: /research_experience
+- name: Research
+  url: /research
 - name: Academic Competitions
   url: /academic_competitions
 - name: Skills
