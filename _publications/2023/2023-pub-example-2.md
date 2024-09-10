@@ -10,7 +10,7 @@ abstract: >-
 cover:          /assets/images/covers/cover2.jpg
 authors:
   - Snigdha Hemant Sodaye
-  - Daiyun Dong#
+  - Daiyun Dong
   - Dhruvi Ketan Mehta
   - Francisco Loayza-Tovar
   - Zijun Li
