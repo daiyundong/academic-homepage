@@ -1,26 +1,20 @@
 ---
-title:          "Transcriptomic signatures of Extracellular Vesicles from Alzheimer’s Disease iPSC-derived Neurons."
-date:           2024-04-01
-selected:       true
-pub:            "Supervisor: Dr. Vasiliki Machairaki    University: Johns Hopkins University    Date: 04/2024 - current"
-pub_date:       "2024"
-supervisor:     "Vasiliki"
-university:     "JHU"
+title:          "Analysis of 16S RNA of Airway Microbiome in Chronic Obstructive Pulmonary Disease."
+date:           2021-10-01
+selected:       false
+pub:            ""
+pub_date:       "10/2021 - 04/2022"
+supervisor:     "Prof. Dan Xu"
+university:     "Xi'an Jiaotong University"
 abstract:
- - Investigated distinctions in EV cargo composition between AD and control neurons derived from iPSCs.
- - Performed bulk RNA sequencing on EVs isolated from neurons differentiated from AD patients (n=8) and healthy individuals (n=6).  
- - Identified differentially expressed genes and suggested potential biomarkers for AD.
+ - Collected and sequenced sputum samples from 55 COPD patients and 19 healthy controls.
+ - Conducted bioinformatics analysis including DADA2 denoising, alpha/beta diversity, differential species analysis, and co-occurrence network analysis.
 
 cover:          /assets/images/covers/cover2.jpg
 authors:
-  - Snigdha Hemant Sodaye
-  - Daiyun Dong
-  - Dhruvi Ketan Mehta
-  - Francisco Loayza-Tovar
-  - Zijun Li
-  - Anwar Hossain
+  - "Research Assitant: Practiced with RNA-seq data and engaged in discussion of the project"
 links:
-  Website: https://www.scitcentralconferences.com/accepteddetails/international-conference-on-biomedical-and-cancer-research-2024/2711
+  #Website: https://www.scitcentralconferences.com/accepteddetails/international-conference-on-biomedical-and-cancer-research-2024/2711
   #Code: https://github.com
   #Unsplash: https://unsplash.com/photos/orange-fruit-on-white-table-cloth-ISX_imp8t1o
 ---
