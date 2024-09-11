@@ -13,12 +13,7 @@ abstract:
 
 cover:          /assets/images/covers/cover2.jpg
 authors:
-  - Snigdha Hemant Sodaye
-  - Daiyun Dong
-  - Dhruvi Ketan Mehta
-  - Francisco Loayza-Tovar
-  - Zijun Li
-  - Anwar Hossain
+  - Research Assitant: Analyze the RNA expression data and visualize.
 links:
   Website: https://www.scitcentralconferences.com/accepteddetails/international-conference-on-biomedical-and-cancer-research-2024/2711
   #Code: https://github.com
