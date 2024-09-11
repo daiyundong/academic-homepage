@@ -1,15 +1,13 @@
 ---
 title:          "Transcriptomic signatures of Extracellular Vesicles from Alzheimer’s Disease iPSC-derived Neurons."
-date:           04/2024 - current
+date:           2024
 selected:       false
-pub:            "SciTech Biomed-Cancer 2024"
+pub:            "Supervisor: Dr. Vasiliki Machairaki    University: Johns Hopkins University    Date: 04/2024 - current"
 pub_date:       "2024"
 abstract:
  - Investigated distinctions in EV cargo composition between AD and control neurons derived from iPSCs.
  - Performed bulk RNA sequencing on EVs isolated from neurons differentiated from AD patients (n=8) and healthy individuals (n=6).  
  - Identified differentially expressed genes and suggested potential biomarkers for AD.
-
-
 
 cover:          /assets/images/covers/cover2.jpg
 authors:
