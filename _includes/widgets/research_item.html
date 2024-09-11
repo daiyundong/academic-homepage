@@ -14,7 +14,7 @@
             <!-- 使用 Flexbox 布局将 Authors 和 Date 左右对齐 -->
             <div class="d-flex justify-content-between">
                 <p class="mt-0 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
-                <p class="mt-0 mb-0 small" style="margin-right: 30px;"><strong>{{ item.pub_date }}</strong></p> <!-- 右侧留白 -->
+                <p class="mt-0 mb-0 small" style="margin-right: 30px;"><em>{{ item.pub_date }}</em></p> <!-- 右侧留白，斜体显示 -->
             </div>
 
             <!-- Date, Supervisor, University 分行显示 -->
