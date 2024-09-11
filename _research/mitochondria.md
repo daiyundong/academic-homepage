@@ -13,7 +13,7 @@ abstract:
 
 cover:          /assets/images/covers/cover2.jpg
 authors:
-  - Lead Researcher: Designed the project, collected the data, and analyzed it.
+  - "Lead Researcher - Designed the project, collected the data, analyzed, and wrote the article."
 links:
   #Website: https://www.scitcentralconferences.com/accepteddetails/international-conference-on-biomedical-and-cancer-research-2024/2711
   #Code: https://github.com
