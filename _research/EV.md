@@ -1,6 +1,6 @@
 ---
 title:          "Transcriptomic signatures of Extracellular Vesicles from Alzheimer’s Disease iPSC-derived Neurons."
-date:           2024
+date:           2024-04-01
 selected:       false
 pub:            "Supervisor: Dr. Vasiliki Machairaki    University: Johns Hopkins University    Date: 04/2024 - current"
 pub_date:       "2024"
