@@ -12,7 +12,7 @@ abstract:
 
 cover:          /assets/images/covers/cover2.jpg
 authors:
-  - "Research Assitant: Practiced with RNA-seq data and engaged in discussion of the project"
+  - "Research Assitant: Practiced with RNA-seq data and engaged in discussion of the project."
 links:
   #Website: https://www.scitcentralconferences.com/accepteddetails/international-conference-on-biomedical-and-cancer-research-2024/2711
   #Code: https://github.com
