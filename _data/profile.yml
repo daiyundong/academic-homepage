@@ -38,21 +38,21 @@ education:
   logo: /assets/images/badges/PKU_red.png
   position: Master in Bioinformation
   date: 09/2023 - 06/2025
-  GPA: GPA: 4.0 / 4.0
+  GPA: "GPA: 4.0 / 4.0"
 
 
 - name: University of California, Berkeley
   logo: /assets/images/badges/PKU_red.png
   position: The Berkeley International Study Program
   date: 01/2022 - 05/2022
-  GPA: GPA: 4.0 / 4.0
+  GPA: "GPA: 4.0 / 4.0"
 
 
 - name: Xi'an Jiaotong University
   logo: /assets/images/badges/PKU_red.png
   position: B.S. in Biochemistry
   date: 09/2019 - 07/2023
-  GPA: GPA: 3.82 / 4.0
+  GPA: "GPA: 3.82 / 4.0"
 
 
 # experience:
