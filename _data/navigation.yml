@@ -9,8 +9,6 @@ pages:
   url: /competitions
 - name: Skills
   url: /skills
-- name: Awards
-  url: /awards
 - name: Activities
   url: /activities
   
