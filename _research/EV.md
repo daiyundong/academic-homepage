@@ -4,7 +4,7 @@ date:           04/2024 - current
 selected:       false
 pub:            "SciTech Biomed-Cancer 2024"
 pub_date:       "2024"
-abstract: >-
+abstract:
  - Investigated distinctions in EV cargo composition between AD and control neurons derived from iPSCs.
  - Performed bulk RNA sequencing on EVs isolated from neurons differentiated from AD patients (n=8) and healthy individuals (n=6).  
  - Identified differentially expressed genes and suggested potential biomarkers for AD.
