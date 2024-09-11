@@ -1,26 +1,20 @@
 ---
-title:          "Transcriptomic signatures of Extracellular Vesicles from Alzheimer’s Disease iPSC-derived Neurons."
-date:           2024-04-01
-selected:       true
-pub:            "Supervisor: Dr. Vasiliki Machairaki    University: Johns Hopkins University    Date: 04/2024 - current"
-pub_date:       "2024"
-supervisor:     "Vasiliki"
-university:     "JHU"
+title:          "Critical Role of FTO and Therapeutic Targets for the Prevention of Heart Failure. "
+date:           2023-08-01
+selected:       false
+pub:            ""
+pub_date:       "08/2023 - 02/2024"
+supervisor:     "Dr. Anwar Hossain"
+university:     "Johns Hopkins University"
 abstract:
- - Investigated distinctions in EV cargo composition between AD and control neurons derived from iPSCs.
- - Performed bulk RNA sequencing on EVs isolated from neurons differentiated from AD patients (n=8) and healthy individuals (n=6).  
- - Identified differentially expressed genes and suggested potential biomarkers for AD.
+ - Reviewed the role of FTO, an m6A demethylase, in regulating heart failure and other diseases.
+ - Explored FTO's influence on m6A methylation and cardiac function, identifying potential therapeutic targets for heart failure based on genetic predisposition.
 
 cover:          /assets/images/covers/cover2.jpg
 authors:
-  - Snigdha Hemant Sodaye
-  - Daiyun Dong
-  - Dhruvi Ketan Mehta
-  - Francisco Loayza-Tovar
-  - Zijun Li
-  - Anwar Hossain
+  - "Research Assistant: Engaged in the discussion of the project, and wrote a part of the article."
 links:
-  Website: https://www.scitcentralconferences.com/accepteddetails/international-conference-on-biomedical-and-cancer-research-2024/2711
+  #Website: https://www.scitcentralconferences.com/accepteddetails/international-conference-on-biomedical-and-cancer-research-2024/2711
   #Code: https://github.com
   #Unsplash: https://unsplash.com/photos/orange-fruit-on-white-table-cloth-ISX_imp8t1o
 ---
