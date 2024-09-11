@@ -1,11 +1,15 @@
 ---
-title:          "Critical Role of FTO and Therapeutic Targets for the Prevention of Heart Failure"
-date:           2024-05-03 00:01:00 +0800
+title:          "Transcriptomic signatures of Extracellular Vesicles from Alzheimer’s Disease iPSC-derived Neurons."
+date:           04/2024 - current
 selected:       false
 pub:            "SciTech Biomed-Cancer 2024"
 pub_date:       "2024"
 abstract: >-
-  InvestigateddistinctionsinEVcargocompositionbetweenADandcontrolneuronsderivedfromiPSCs.PerformedbulkRNAsequencingonEVsisolatedfromneuronsdifferentiatedfromADpatients(n=8)anhealthy individuals (n=6).IdentifieddifferentiallyexpressedgenesandsuggestedpotentialbiomarkersforAD.
+ - Investigated distinctions in EV cargo composition between AD and control neurons derived from iPSCs.
+ - Performed bulk RNA sequencing on EVs isolated from neurons differentiated from AD patients (n=8) and healthy individuals (n=6).  
+ - Identified differentially expressed genes and suggested potential biomarkers for AD.
+
+
 
 cover:          /assets/images/covers/cover2.jpg
 authors:
