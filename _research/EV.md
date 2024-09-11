@@ -13,7 +13,7 @@ abstract:
 
 cover:          /assets/images/covers/cover2.jpg
 authors:
-  - "Research Assitant - Analyzed the RNA expression data and visualized the results."
+  - "Research Assitant - Analyzed the RNA expression data, visualized the results, and wrote a part of the article."
 links:
   #Website: https://www.scitcentralconferences.com/accepteddetails/international-conference-on-biomedical-and-cancer-research-2024/2711
   #Code: https://github.com
