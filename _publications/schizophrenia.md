@@ -10,5 +10,5 @@ cover:          /assets/images/covers/cover1.jpg
 authors:
 - Daiyun Dong
 links:
-  Paper: https://doi.org/10.1063/5.0112965
+  Website: https://doi.org/10.1063/5.0112965
 ---
